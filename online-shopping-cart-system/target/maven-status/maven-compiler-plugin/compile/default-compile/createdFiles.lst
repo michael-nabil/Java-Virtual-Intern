@@ -1,0 +1,10 @@
+com\mycompany\onlineshoppingcartsystem\Main.class
+com\mycompany\onlineshoppingcartsystem\ProductCatalog.class
+com\mycompany\onlineshoppingcartsystem\MockPaymentGateway.class
+com\mycompany\onlineshoppingcartsystem\CartItem.class
+com\mycompany\onlineshoppingcartsystem\Order.class
+com\mycompany\onlineshoppingcartsystem\Product.class
+com\mycompany\onlineshoppingcartsystem\Cart.class
+com\mycompany\onlineshoppingcartsystem\InputValidation$ValidateInput.class
+com\mycompany\onlineshoppingcartsystem\User.class
+com\mycompany\onlineshoppingcartsystem\InputValidation.class
